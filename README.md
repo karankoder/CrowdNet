@@ -4,6 +4,9 @@
 Working video demo
 [https://www.loom.com/share/0309d347c9fb4829a2e0df4f8f34f9a1?sid=f75fe3fb-89a5-451d-91b5-2874292e65e9]
 
+## Hackathon standing
+https://x.com/lla_dane/status/1879907556778475966
+
 ## Inspiration
 
 A decentralized event-hosting platform on the Vara network! Whether you're hosting or attending Web3 or general events, our platform makes it easy to create, join, and interact with events through likes and comments. Say goodbye to high taxes on crypto conversions – we use VFT tokens for all payments, making transactions fast and cost-effective. Join us to experience seamless, engaging events in a decentralized world!
